@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-10-02 10:37:08 by Eclipse SUMO libsumo Version 1.16.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/libsumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Grid8/grid8scenario.net.xml"/>
+        <route-files value="Grid8/2_to_3.rou.xml"/>
+        <additional-files value="Grid8/grid8scenario.add.xml,Grid8/2_to_3.med.add.xml"/>
+    </input>
+
+</configuration>
